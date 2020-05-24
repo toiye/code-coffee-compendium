@@ -106,6 +106,8 @@ https://www.eclipse.org[Download Eclipse here]
 
 == Software Engineering
  * https://blog.alicegoldfuss.com/how-to-get-into-sre/[How to Get Into SRE]
+ * https://www.sandimetz.com/blog/2016/1/20/the-wrong-abstraction[The Wrong Abstraction]
+ * https://www.entropywins.wtf/blog/2017/09/06/the-fallacy-of-dry[The Fallacy of DRY]
 
 == Python
  * https://realpython.com/python-virtual-environments-a-primer/[Python Virtual Environments: A Primer]
